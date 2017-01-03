@@ -1,0 +1,28 @@
+body {
+  background-color: #ffe4b2;
+}
+
+h1 {
+  color: #091292;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-family: cursive;
+  color: #091292;
+
+}
+
+a {
+  color: violet;
+  text-decoration: none;
+}
+
+li {
+  line-height: 100px;
+}
+
+p {
+  line-height: 30px;
+}
